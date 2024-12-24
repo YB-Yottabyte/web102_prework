@@ -36,7 +36,7 @@ While building the app, a few challenges were faced. Parsing JSON data and displ
 
 ## License
 
-    Copyright 2025 Sai Rithwik Kukunuri
+    Copyright 2024 Sai Rithwik Kukunuri
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
