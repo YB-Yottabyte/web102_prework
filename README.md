@@ -4,6 +4,8 @@ Submitted by: **Sai Rithwik Kukunuri**
 
 **Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
+You can view the project live here: [Sea Monster Website](https://yb-yottabyte.github.io/web102_prework/)
+
 Time spent: **4** hours spent in total
 
 ## Required Features
